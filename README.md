@@ -15,5 +15,8 @@
   - [BookStore App](https://github.com/navidr08-hub/bookstore-app)
   - [Secure Chat System](https://github.com/navidr08-hub/coe817-secure-chat-system)
  
+- <b>SQL Database</b>
+  - [COE848 Project](https://github.com/navidr08-hub/coe848-database-project)
+ 
 - <b>VHDL</b>
   - [Pong Game](https://github.com/navidr08-hub/pong-game)
