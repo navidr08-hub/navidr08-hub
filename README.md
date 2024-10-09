@@ -1,6 +1,11 @@
 <h1>Hi, I'm Taskin! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> :desktop_computer: IT Projects </h2>
+
+- <b>  Active Directory Home Lab </b>
+  - [Documentation](https://github.com/navidr08-hub/ad_ds-home-lab/tree/main)
+
+<h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Automated Parking Managemet System (Capstone)</b>
   - [Documentation](https://github.com/Automated-Parking-Management-System/aa05-documentation)
