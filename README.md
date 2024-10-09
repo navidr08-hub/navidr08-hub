@@ -2,8 +2,7 @@
 
 <h2> :desktop_computer: IT Projects </h2>
 
-- <b>  Active Directory Home Lab </b>
-  - [Documentation](https://github.com/navidr08-hub/ad_ds-home-lab/tree/main)
+- <b>[Active Directory Home Lab](https://github.com/navidr08-hub/ad_ds-home-lab/tree/main)</b>
 
 <h2>👨‍💻 Software Development Projects </h2>
 
