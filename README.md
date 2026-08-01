@@ -1,10 +1,10 @@
 <h1>Hi, I'm Taskin! </h1>
 
+<h2> 🌐🖧 Networking Labs </h2>
 <h2> :desktop_computer: IT Projects </h2>
 
 - [Active Directory Home Lab](https://github.com/navidr08-hub/ad_ds-home-lab/tree/main)
 - [Automated Parking Management System](https://github.com/Automated-Parking-Management-System/aa05-documentation)
-- [Routing Protocol Labs](https://github.com/navidr08-hub/linux-topology)
 
 <h2>👨‍💻 Software Development Projects </h2>
 
