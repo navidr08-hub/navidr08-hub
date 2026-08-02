@@ -1,6 +1,9 @@
 <h1>Hi, I'm Taskin! </h1>
 
 <h2> 🌐🖧 Networking Labs </h2>
+
+- [Networking Labs](https://github.com/navidr08-hub/networking_labs)
+
 <h2> :desktop_computer: IT Projects </h2>
 
 - [Active Directory Home Lab](https://github.com/navidr08-hub/ad_ds-home-lab/tree/main)
